@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">rma21projekat</string>
+    <string name="selected_item">Selected item:</string>
+    <string name="upisi_me">UPIŠI ME</string>
+    <string-array name="filtriranje">
+        <item>Svi moji kvizovi</item>
+        <item>Svi kvizovi</item>
+        <item>Urađeni kvizovi</item>
+        <item>Budući kvizovi</item>
+        <item>Prošli kvizovi</item>
+    </string-array>
+
+    <string name="kvizovi">Kvizovi</string>
+    <string name="upis">Upis predmeta</string>
+
+    <string-array name="godine">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+
+    <string name="predaj">Predaj kviz</string>
+    <string name="zaustavi">Zaustavi kviz</string>
+</resources>

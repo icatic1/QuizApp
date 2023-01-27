@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/kvizovi"
+        android:icon="@android:drawable/btn_star_big_off"
+        android:title="@string/kvizovi"/>
+
+    <item
+        android:id="@+id/predmeti"
+        android:icon="@android:drawable/ic_menu_search"
+        android:title="@string/upis"/>
+
+    <item
+        android:id="@+id/predajKviz"
+        android:icon="@android:drawable/checkbox_on_background"
+        android:title="@string/predaj"/>
+
+    <item
+        android:id="@+id/zaustaviKviz"
+        android:icon="@android:drawable/ic_menu_close_clear_cancel"
+        android:title="@string/zaustavi"/>
+</menu>
